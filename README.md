@@ -1,2 +1,2 @@
 # GTS
-Các bài tập môn GTS
+Trong đây là các thuật toán của GTS
